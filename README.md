@@ -41,3 +41,6 @@ codesquad-portfolio/
 ├── index.html
 └── styles.css
 ```
+## Live Portfolio
+
+[View My Portfolio](https://thedata-cleaner.github.io/codesquad-portfolio/)
