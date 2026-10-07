@@ -19,8 +19,8 @@ The portfolio highlights:
 This portfolio includes screenshots from several projects completed during the CodeSquad Mini Course:
 
 - Business Card
-- Stylized To-Do List
-- Blog Post Card
+- Java Cafe Menu
+- Stylized To-Do Checklist
 
 ## Technologies Used
 
