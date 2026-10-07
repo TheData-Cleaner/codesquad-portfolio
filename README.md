@@ -40,3 +40,4 @@ codesquad-portfolio/
 ├── README.md
 ├── index.html
 └── styles.css
+```
