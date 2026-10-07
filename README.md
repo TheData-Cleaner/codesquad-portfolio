@@ -41,6 +41,3 @@ codesquad-portfolio/
 ├── index.html
 └── styles.css
 ```
-## Live Portfolio
-
-[View the deployed portfolio](YOUR-GITHUB-PAGES-LINK)
