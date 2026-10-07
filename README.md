@@ -36,7 +36,7 @@ This portfolio includes screenshots from several projects completed during the C
 ```text
 codesquad-portfolio/
 ├── assets/
-├── index.html
-├── styles.css
+├── LICENSE
 ├── README.md
-└── LICENSE
+├── index.html
+└── styles.css
